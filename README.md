@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Angular
 - 📫 Contate-me no email: viniciussolonc@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSolon&show_icons=true&theme=transparent)
