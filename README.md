@@ -15,7 +15,7 @@
   <img align="center" alt="Python-Icon" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Streamlit-Icon" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
 <img align="center" alt="Solon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align="center" alt="Solon-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django.svg" />
+  <img align="center" alt="Solon-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
            <img align="center" alt="Solon-Node" height="30" width="40" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img align="center" alt="Solon-PostgreSQL" height="30" width="40" 
