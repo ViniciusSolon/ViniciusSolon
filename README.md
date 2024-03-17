@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vinicius Solon
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Angular
+- 🔭 Hoje trabalho python
+- 🌱 Trabalho na TechnipFMC como Estágiario de Digital Performance
 - 📫 Contate-me no email: viniciussolonc@gmail.com
 
 
@@ -12,8 +12,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Solon-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Solon-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Solon-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-originalsvg" />
+  <img align="center" alt="Solon-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
 <img align="center" alt="Solon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Solon-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
            <img align="center" alt="Solon-Node" height="30" width="40" 
