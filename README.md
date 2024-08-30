@@ -15,7 +15,6 @@
   <img align="center" alt="SQLServer-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original-wordmark.svg" />
   <img align="center" alt="PowerBI-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
 
-  <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b2/37/a4/b237a4ab051d6fe28e57792354c331f4.gif">
 </div>
 
 ##
