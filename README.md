@@ -15,7 +15,7 @@
   <img align="center" alt="SQLServer-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original-wordmark.svg" />
   <img align="center" alt="PowerBI-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
   <img align="center" alt="Pandas-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Scikit-learn-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+  <img align="center" alt="Scikit-learn-Icon" height="30" width="40" src="https://github.com/scikit-learn/blog/blob/main/assets/images/scikit-learn-logo.png" />
 </div>
 
 ##
