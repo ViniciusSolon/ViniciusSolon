@@ -12,11 +12,12 @@
   <img align="center" alt="Streamlit-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="FastAPI-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" alt="SQL-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="SQLServer-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original-wordmark.svg" />
-  <img align="center" alt="PowerBI-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  <img align="center" alt="SQLServer-Icon" height="30" width="40" src="https://github.com/microsoft/sql-server-samples/blob/master/samples/SQL%20Server%20Management%20Studio%20(SSMS)%20Logo%20for%20SQL%20Server%20Management%20Studio.png" />
+  <img align="center" alt="PowerBI-Icon" height="30" width="40" src="https://github.com/Microsoft/PowerBI-Images/blob/master/powerbi-logo.png" />
   <img align="center" alt="Pandas-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Scikit-learn-Icon" height="30" width="40" src="https://github.com/scikit-learn/blog/blob/main/assets/images/scikit-learn-logo.png" />
 </div>
+
 
 ##
 
