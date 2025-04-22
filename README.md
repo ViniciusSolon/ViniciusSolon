@@ -17,18 +17,17 @@
 
 ---
 
-### 🚀 Technologies & Tools
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://github.com/scikit-learn/blog/blob/main/assets/images/scikit-learn-logo.png" />
-  <img align="center" alt="Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  <img align="center" alt="Power BI" height="30" width="40" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" />
-</div>
+🚀 Technologies & Tools
+🧑‍💻 Languages & Frameworks
+<div style="display: inline_block"><br> <img align="center" alt="Python" title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="JavaScript" title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="HTML" title="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="CSS" title="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="FastAPI" title="FastAPI" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <img align="center" alt="Streamlit" title="Streamlit" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" /> </div>
+📊 Data Science & Analysis
+<div style="display: inline_block"><br> <img align="center" alt="Pandas" title="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img align="center" alt="NumPy" title="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img align="center" alt="Scikit-learn" title="Scikit-learn" height="30" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-small.png" /> </div>
+🧮 BI & Visualization
+<div style="display: inline_block"><br> <img align="center" alt="Power BI" title="Power BI" height="30" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" /> <img align="center" alt="DAX" title="DAX / M" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /> </div>
+🗄️ Databases & Cloud
+<div style="display: inline_block"><br> <img align="center" alt="SQL Server" title="SQL Server" height="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" /> <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img align="center" alt="Snowflake" title="Snowflake" height="30" src="https://avatars.githubusercontent.com/u/22007259?s=200&v=4" /> <img align="center" alt="AWS" title="AWS (RDS, EC2, Secrets Manager)" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> </div>
+🛠️ DevOps & Tools
+<div style="display: inline_block"><br> <img align="center" alt="Git" title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="GitHub" title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="center" alt="Jira" title="Jira" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> <img align="center" alt="Pylint" title="Pylint / PEP8" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pylint_logo.svg/512px-Pylint_logo.svg.png" /> <img align="center" alt="Power Platform" title="Power Apps / Power Automate" height="30" src="https://img.icons8.com/color/48/microsoft-power-apps.png" /> </div>
 
 ---
 
