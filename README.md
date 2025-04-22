@@ -1,7 +1,6 @@
 ### Hi, I'm Vinicius Solon
 
-- 🔭 I'm a Data Scientist
-- 🌱 Work at TechnipFMC - Digital Performance Intern
+- 🔭 I'm a Intern Data Scientist at Globo
 - 📫 E-mail: viniciussolonc@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusSolon&show_icons=true&theme=transparent)  
