@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Dual-degree student in Computer Science and Big Data and Analytical Intelligence<br>
   🔍 Passionate about solving real-world problems through data and code<br>
-  📊 Intern Data Scientist @ Globo • Data & AI enthusiast
+  📊 Machine Learning Engineer @ Globo • Data & AI enthusiast
 </p>
 
 ---
