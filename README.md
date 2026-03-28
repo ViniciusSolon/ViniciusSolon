@@ -10,7 +10,6 @@
 
 ### 🧠 About Me
 
-- 💼 Intern Data Scientist at **Globo**
 - 🧪 Building data-driven solutions using **Python**, **SQL**, **Streamlit**, and **Power BI**
 - 🌐 Exploring **AI**, **Machine Learning**, and **Cloud Computing**
 - 📬 Reach me at: **viniciussolonc@gmail.com**
